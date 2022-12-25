@@ -1,0 +1,20 @@
+{
+  "nodes": [
+ 	{"palabra": "TRES_AÑOS", "parrafo": 0, "valor": 2},
+	{"palabra": "pequeño", "parrafo": 1, "valor": 1},
+	{"palabra": "florecillas_rosas_celestes_y_gualdas", "parrafo": 2, "valor": 1},
+	{"palabra": "igual_que_un_niño_que_una_niña", "parrafo": 4, "valor": 1}	
+],
+  "links": [
+    	{"source": "pequeño", "target": "TRES_AÑOS", "peso": 1},
+	{"source": "florecillas_rosas_celestes_y_gualdas", "target": "TRES_AÑOS", "peso": 1},
+	{"source": "igual_que_un_niño_que_una_niña", "target": "TRES_AÑOS", "peso": 3}	
+  ]
+}
+
+
+
+
+
+
+

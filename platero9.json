@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    	{"palabra": "COLOR_BLANCO", "parrafo": 0, "valor": 2},	
+	{"palabra": "algodon", "parrafo": 1, "valor": 1},	
+	{"palabra": "plata", "parrafo": 5, "valor": 1},
+	{"palabra": "luna", "parrafo": 5, "valor": 1}
+],
+  "links": [
+ 
+	{"source": "algodon", "target": "COLOR_BLANCO", "peso": 1},
+	{"source": "plata", "target": "COLOR_BLANCO",  "peso": 1},
+	{"source": "luna", "target": "COLOR_BLANCO", "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

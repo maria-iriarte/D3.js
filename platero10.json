@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    	{"palabra": "OJOS_NEGROS", "parrafo": 0, "valor": 2},	
+	{"palabra": "espejos_de_azabache", "parrafo": 1, "valor": 1},
+	{"palabra": "ojos", "parrafo": 1, "valor": 1},
+	{"palabra": "escarabajos_de_cristal_negro", "parrafo": 1, "valor": 1}	
+],
+  "links": [
+ 	{"source": "espejos_de_azabache", "target": "OJOS_NEGROS", "peso": 2},
+	{"source": "ojos", "target": "OJOS_NEGROS", "peso": 5},
+	{"source": "escarabajos_de_cristal_negro", "target": "OJOS_NEGROS", "peso": 3}	
+  ]
+}
+
+
+
+
+
+
+

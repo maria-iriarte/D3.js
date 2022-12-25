@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    	
+	{"palabra": "FUERTE", "parrafo": 0, "valor": 2},	
+	{"palabra": "duros", "parrafo": 1, "valor": 1},	
+	{"palabra": "fuerte", "parrafo": 4, "valor": 1},
+	{"palabra": "seco", "parrafo": 4, "valor": 1},
+	{"palabra": "piedra", "parrafo": 4, "valor": 1},	
+	{"palabra": "acero", "parrafo": 5, "valor": 1}	
+],
+  "links": [
+ 	{"source": "duros", "target": "FUERTE", "peso": 1},
+	{"source": "fuerte", "target": "FUERTE", "peso": 5},
+	{"source": "seco", "target": "FUERTE", "peso": 1},
+	{"source": "piedra", "target": "FUERTE", "peso": 1},
+	{"source": "acero", "target": "FUERTE", "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

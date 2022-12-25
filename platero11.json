@@ -1,0 +1,22 @@
+{
+  "nodes": [
+ 	{"palabra": "PARA_SIEMPRE", "parrafo": 0, "valor": 2},
+	{"palabra": "naranjas", "parrafo": 3, "valor": 1},
+	{"palabra": "mandarinas", "parrafo": 3, "valor": 1},
+	{"palabra": "uvas_moscateles", "parrafo": 3, "valor": 1},
+	{"palabra": "higos_morados", "parrafo": 3, "valor": 1}
+],
+  "links": [
+   	{"source": "naranjas", "target": "PARA_SIEMPRE", "peso": 1},	
+	{"source": "mandarinas", "target": "PARA_SIEMPRE", "peso": 1},
+	{"source": "uvas_moscateles", "target": "PARA_SIEMPRE", "peso": 1},
+	{"source": "higos_morados", "target": "PARA_SIEMPRE", "peso": 1}
+  ]
+}
+
+
+
+
+
+
+

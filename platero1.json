@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    	{"palabra": "NOMBRE_PLATERO", "parrafo": 0, "valor": 3},
+	{"palabra": "platero", "parrafo": 1, "valor": 1},	
+	{"palabra": "algodon", "parrafo": 1, "valor": 1},
+        {"palabra": "plata", "parrafo": 5, "valor": 1},
+	{"palabra": "luna", "parrafo": 5, "valor": 1}
+],
+  "links": [
+    	{"source": "platero", "target": "NOMBRE_PLATERO", "peso": 5},
+	{"source": "algodon", "target": "NOMBRE_PLATERO", "peso": 1},
+	{"source": "plata", "target": "NOMBRE_PLATERO", "peso": 4},
+	{"source": "luna", "target": "NOMBRE_PLATERO", "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    	{"palabra": "ALEGRE", "parrafo": 0, "valor": 2},
+	{"palabra": "alegre", "parrafo": 2, "valor": 1},
+	{"palabra": "rie", "parrafo": 2, "valor": 1},
+	{"palabra": "cascabeleo", "parrafo": 2, "valor": 1},
+	{"palabra": "naranjas", "parrafo": 3, "valor": 1},
+	{"palabra": "mandarinas", "parrafo": 3, "valor": 1},
+	{"palabra": "ambar", "parrafo": 3, "valor": 1},
+	{"palabra": "miel", "parrafo": 3, "valor": 1}
+],
+  "links": [
+	{"source": "alegre", "target": "ALEGRE", "peso": 5},
+	{"source": "rie", "target": "ALEGRE", "peso": 1},
+	{"source": "cascabeleo", "target": "ALEGRE", "peso": 1},
+	{"source": "naranjas", "target": "ALEGRE", "peso": 1},
+	{"source": "mandarinas", "target": "ALEGRE", "peso": 1},
+	{"source": "ambar", "target": "ALEGRE", "peso": 1},
+	{"source": "miel", "target": "ALEGRE", "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

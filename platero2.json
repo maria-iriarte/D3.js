@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    	
+	{"palabra": "HIJO_AMADO", "parrafo": 0, "valor": 2},	
+	{"palabra": "platero", "parrafo": 1, "valor": 1},	
+	{"palabra": "ojos", "parrafo": 1, "valor": 1},	
+	{"palabra": "come", "parrafo": 3, "valor": 1},	
+	{"palabra": "paso", "parrafo": 4, "valor": 1},
+	{"palabra": "mirandolo", "parrafo": 4, "valor": 1},	
+	{"palabra": "luna", "parrafo": 5, "valor": 1}
+],
+  "links": [
+    	{"source": "platero", "target": "HIJO_AMADO", "peso": 3},
+	{"source": "ojos", "target": "HIJO_AMADO", "peso": 1},
+	{"source": "come", "target": "HIJO_AMADO", "peso": 3},
+	{"source": "paso", "target": "HIJO_AMADO", "peso": 3},
+	{"source": "mirandolo", "target": "HIJO_AMADO", "peso": 3},
+	{"source": "luna", "target": "HIJO_AMADO", "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

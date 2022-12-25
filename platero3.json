@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    	{"palabra": "NIÑO", "parrafo": 0, "valor": 2},
+	{"palabra": "pequeño", "parrafo": 1, "valor": 1},	
+	{"palabra": "florecillas_rosas_celestes_y_gualdas", "parrafo": 2, "valor": 1},
+	{"palabra": "trotecillo", "parrafo": 2, "valor": 1},	
+	{"palabra": "rie", "parrafo": 2, "valor": 1},
+	{"palabra": "cascabeleo", "parrafo": 2, "valor": 1}
+],
+  "links": [
+    	{"source": "pequeño", "target": "NIÑO", "peso": 1},
+	{"source": "florecillas_rosas_celestes_y_gualdas", "target": "NIÑO",  "peso": 1},
+	{"source": "trotecillo", "target": "NIÑO",  "peso": 1},
+	{"source": "rie", "target": "NIÑO", "peso": 1},
+	{"source": "cascabeleo", "target": "NIÑO",  "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

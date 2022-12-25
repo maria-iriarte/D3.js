@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    	{"palabra": "TIERNO", "parrafo": 0, "valor": 2},	
+	{"palabra": "suave", "parrafo": 1, "valor": 1},
+	{"palabra": "blando", "parrafo": 1, "valor": 1},
+	{"palabra": "algodon", "parrafo": 1, "valor": 1},
+	{"palabra": "que_no_lleva_huesos", "parrafo": 1, "valor": 1},	
+	{"palabra": "acaricia", "parrafo": 2, "valor": 1},
+	{"palabra": "rozandolas", "parrafo": 2, "valor": 1},	
+	{"palabra": "miel", "parrafo": 3, "valor": 1},
+	{"palabra": "tierno", "parrafo": 4, "valor": 1},
+	{"palabra": "mimoso", "parrafo": 4, "valor": 1},	
+	{"palabra": "luna", "parrafo": 5, "valor": 1}
+],
+  "links": [
+    	{"source": "suave", "target": "TIERNO", "peso": 1},	
+	{"source": "blando", "target": "TIERNO",  "peso": 1},
+	{"source": "algodon", "target": "TIERNO",  "peso": 1},
+	{"source": "que_no_lleva_huesos", "target": "TIERNO", "peso": 1},
+	{"source": "acaricia", "target": "TIERNO", "peso": 1},
+	{"source": "rozandolas", "target": "TIERNO", "peso": 1},
+	{"source": "miel", "target": "TIERNO", "peso": 1},
+	{"source": "tierno", "target": "TIERNO", "peso": 5},
+	{"source": "mimoso", "target": "TIERNO", "peso": 1},
+	{"source": "luna", "target": "TIERNO", "peso": 1}	
+  ]
+}
+
+
+
+
+
+
+

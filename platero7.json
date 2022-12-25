@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    	{"palabra": "NOBLE", "parrafo": 0, "valor": 2},
+	{"palabra": "uvas_moscateles", "parrafo": 3, "valor": 1},
+	{"palabra": "higos_morados", "parrafo": 3, "valor": 1},
+	{"palabra": "acero", "parrafo": 5, "valor": 1}	
+],
+  "links": [
+	{"source": "uvas_moscateles", "target": "NOBLE", "peso": 1},	
+	{"source": "higos_morados", "target": "NOBLE", "peso": 1},
+	{"source": "acero", "target": "NOBLE", "peso": 1}		
+  ]
+}
+
+
+
+
+
+
+
